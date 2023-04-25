@@ -7,7 +7,7 @@
      justify-content: center;
      align-items: center;
      height: 100vh;
-     background-color: rgba(0, 47, 255,0.1);
+     background-color: hsl(220, 15%, 55%);
    }
    .container{
      width: 375px;
